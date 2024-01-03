@@ -12,7 +12,10 @@ Về cơ bản không có quy định cứng nào về cấu trúc của một b
 
 - **I**ntroduction: Giới thiệu về chủ đề đang nghiên cứu, vấn đề đang gặp phải, cách tiếp cận/giải quyết trước đây, khoảng trống nghiên cứu, mục tiêu nghiên cứu, câu hỏi nghiên cứu
 - **M**ethodology: Phương pháp tiếp cận để giải quyết vấn đề ở phần giới thiệu là gì?
-- **R**esults **a**nd **D**iscussion: Kết quả thu được sau khi áp dụng phương pháp nghiên cứu ở mục **M**ethodology, cần chỉ ra được kết quả đó đáp ứng/trả lời câu hỏi nghiên cứu ở mục **I**ntroduction như thế nào. Phần thảo luận là phần quan trọng, trong đó cần nêu ra được tầm ảnh hưởng của kết quả nghiên cứu đối với xã hội (ví dụ: về mặt lý thuyết/thực tiễn), các hạn chế, hướng nghiên cứu tiếp theo...
+- **R**esults **a**nd **D**iscussion: Kết quả thu được sau khi áp dụng phương pháp nghiên cứu ở mục **M**ethodology, cần chỉ ra được kết quả đó đáp ứng/trả lời câu hỏi nghiên cứu ở mục **I**ntroduction như thế nào. Phần thảo luận là phần quan trọng, trong đó cần so sánh được kết quả hiện tại giống/khác với các kết quả trước đây như thế nào? cần nêu ra được tầm ảnh hưởng của kết quả nghiên cứu đối với xã hội (ví dụ: về mặt lý thuyết/thực tiễn), các hạn chế, hướng nghiên cứu tiếp theo...
+
+### Nghiên cứu tổng quan (review)
+### Nghiên cứu mô tả (descriptive)
 ## 🧩 Các case studies về nghiên cứu định tính điển hình
 
 
