@@ -57,6 +57,8 @@ Giống như nghiên cứu tổng quan, nghiên cứu mô tả thường xuất 
 - [What explains trends in labor supply among U.S. undergraduates?](https://www.nber.org/system/files/working_papers/w17744/w17744.pdf). Một phân tích rất chi tiết sử dụng phương pháp mô tả. Ví dụ trên cung cấp cho các bạn biết nếu viết nghiên cứu mô tả thì trông mặt mũi nó như thế nào. Tác giả phải dùng đến 46 trang để trả lời cho một câu hỏi nghiên cứu (như tiêu đề bài báo) - đây thực sự là một con số ấn tượng so với 260 từ (tối thiểu).
 ## 🧩 Các case studies về nghiên cứu định tính điển hình
 
-
+- [Mini Review](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/28127): Dạng bài review ngắn, có cấu trúc được chấp nhận trên Scopus
+- [Integrated teaching in primary schools: A systematic review of current practices, barriers, and future developments](https://ijere.iaescore.com/index.php/IJERE/article/view/26087): Bài này do học viên của lớp tự làm bằng cách xem ví dụ mẫu từ bài Mini Review ở trên sau đó áp dụng vào lĩnh vực chuyên môn của mình, cũng được indexed trong [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85175046142&origin=resultslist&sort=plf-f&cite=2-s2.0-85137644275&src=s&imp=t&sid=9889c5c1207de82605cd6b2e63ab819b&sot=cite&sdt=a&sl=0&relpos=0&citeCnt=0&searchTerm=)
+- 
 
 
