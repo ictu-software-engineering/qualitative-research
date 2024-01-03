@@ -8,7 +8,7 @@ Khóa học này được chia thành 02 phần:
 ## 📝 Cơ bản về nghiên cứu định tính
 
 ### Cấu trúc bài báo
-Về cơ bản không có quy định cứng nào về cấu trúc của một bài báo. Mỗi một tạp chí sẽ có những quy định về cấu trúc riêng, các bạn nên lên trên tạp chí mình định nộp bài xem format của bài báo. Khi không có bất kỳ thông tin nào về cấu trúc và chúng ta chưa hình dung cấu trúc bài báo như thế nào thì mô hình IMRaD sẽ là điểm khởi đầu tốt. Đây là mô hình được khuyến nghị khá nhiều và nên tìm hiểu. IMRaD bao gồm những thành phần sau:
+Về cơ bản không có quy định cứng nào về cấu trúc của một bài báo. Mỗi một tạp chí sẽ có những quy định về cấu trúc riêng, các bạn nên lên trên tạp chí mình định nộp bài xem format của bài báo. Khi không có bất kỳ thông tin nào về cấu trúc và chúng ta chưa hình dung cấu trúc bài báo như thế nào thì mô hình [IMRaD](https://en.wikipedia.org/wiki/IMRAD) sẽ là điểm khởi đầu tốt. Đây là mô hình được khuyến nghị khá nhiều và nên tìm hiểu. IMRaD bao gồm những thành phần sau:
 
 - **I**ntroduction: Giới thiệu về chủ đề đang nghiên cứu, vấn đề đang gặp phải, cách tiếp cận/giải quyết trước đây, khoảng trống nghiên cứu, mục tiêu nghiên cứu, câu hỏi nghiên cứu
 - **M**ethodology: Phương pháp tiếp cận để giải quyết vấn đề ở phần giới thiệu là gì?
