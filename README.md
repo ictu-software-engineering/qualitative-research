@@ -16,11 +16,14 @@ Về cơ bản không có quy định cứng nào về cấu trúc của một b
 
 Khi phản biện đọc một bài báo sẽ chấm điểm cho tiêu chí cấu trúc bài báo, một số ý có thể hình dung nhanh như sau:
 
-- Bài báo có cấu trúc rõ ràng không?
+- Bài báo có cấu trúc rõ ràng không? 
 - Nội dung từng phần có rõ ràng không?
 - Đoạn văn (paragraph) có được cấu trúc không?
 - Câu (sentence) có được cấu trúc không?
-- ...và còn rất nhiều (phản biện sẽ được cung cấp hướng dẫn/barem để chấm điểm bài báo) 
+- ...và còn rất nhiều (phản biện sẽ được cung cấp hướng dẫn/barem để chấm điểm bài báo)
+
+Nhiệm vụ của chúng ta phải đưa ra được câu trả lời đáp ứng các tiêu chí trên một cách có thể cho phản biện nhìn thấy được.
+
 
 ### Nghiên cứu tổng quan (review)
 Đây là phần chúng ta sẽ thấy trong hầu hết các báo cáo, đề cương, đồ án, luận án,...trong đó mục đích chính là cung cấp bức tranh toàn cảnh về chủ đề mình đang nghiên cứu. Mỗi tác giả/nhóm nghiên cứu sẽ có những sự quan tâm riêng nên sẽ có những góc nhìn về bức tranh toàn cảnh riêng, và đó cũng là lý do tại sao cùng một chủ đề nghiên cứu lại có rất nhiều các bài tổng quan. Những nhà nghiên cứu mới thường hay gặp khó khăn trong việc làm thế nào để viết về nghiên cứu tổng quan (đây là vấn đề chung trên thế giới chứ không cứ ở Việt Nam), như không biết bắt đầu từ đâu, sử dụng phương pháp nghiên cứu nào, công cụ dùng để phân tích dữ liệu là gì, cách thức trình bày kết quả và phân tích liên quan,...dẫn đến việc viết bài một cách lộn xộn, khó theo dõi, không rõ ràng và đặc biệt là khó nhân rộng (replicate). Chính vì điều này, PRISMA ra đời và được khuyến nghị sử dụng trên rất nhiều tạp chí. Tạp chí Q1 (với Impact Factor =  12) cũng chỉ rõ:
