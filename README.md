@@ -98,3 +98,5 @@ Nội dung về nghiên cứu định tính sẽ được thảo luận trong 03
 - Buổi 6: Ứng dụng của trí tuệ nhân tạo trong....(tự điền)
 - Buổi 7: Tư duy ngược - sự khác biệt trong nghiên cứu
 - Buổi 8: Nghiên cứu định tính cho chuyên ngành hẹp
+
+**Hỗ trợ: 0987 560 071**
