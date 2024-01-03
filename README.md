@@ -37,8 +37,12 @@ Bên cạnh việc đóng vai trò là một đoạn/phần/chương trong một
 - Trong lĩnh vực của tôi ai là người tiên phong, tích cực,...sư tổ của tôi là ai? Biết được sư tổ là ai sẽ lần ra được chủ đề hiện tại ông ấy đang quan tâm (và như thế có lẽ là hot trend), và mềnh có thể đi theo hướng đó
 - Quốc gia nào, viện nghiên cứu nào đang làm về vấn đề này nhiều nhất, biết được điều này cũng có thể lần ra được chủ đề con nào đang là xu thế
 - Từ khoá (keywords) nào đang được sử dụng nhiều nhất, mối quan hệ giữa các từ khoá đó như thế nào, biết được điều này chúng ta có thể lần ra được chủ đề đang hot hoặc chủ đề mới nổi, sẽ nổi...
+- Trong chủ đề của mình thì tạp chí nào đăng bài nhiều nhất, chất lượng tạp chí đó như thế nào? Biết được điều này sẽ giúp ta chọn được tạp chí để nộp bài sau khi có bản thảo (manuscript)
 - Những vấn đề chung trong các nghiên cứu trước đây của chủ đề mình là gì? Đã được giải quyết hoàn toàn chưa? Giải quyết đến mức độ nào rồi? Biết được điều này sẽ giúp chúng ta chọn hướng nghiên cứu để giải quyết vấn đề (nào) còn tồn đọng
 - Hướng nghiên cứu khuyến nghị là gì? Họ đã chỉ sẵn một số con đường để đi, việc lựa chọn là do chúng ta
+
+Đối với nghiên cứu tổng quan, có lẽ 2 ý cuối cùng là 2 ý quan trọng nhất vì nó giúp mình định hình được sẽ làm gì với cái chủ đề của mình.
+
 
 ### Nghiên cứu mô tả (descriptive)
 ## 🧩 Các case studies về nghiên cứu định tính điển hình
