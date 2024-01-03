@@ -50,6 +50,11 @@ Bên cạnh việc đóng vai trò là một đoạn/phần/chương trong một
 - [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564). Bài viết chi tiết về review thuộc Q1. Theo tôi hãy đọc kỹ bài này như một quyển kinh thánh vì nó được đông đảo người đọc chấp nhận (với hơn 7k trích dẫn).
   
 ### Nghiên cứu mô tả (descriptive)
+Giống như nghiên cứu tổng quan, nghiên cứu mô tả thường xuất hiện như một phần nhỏ của một báo cáo lớn. Nhưng bản thân nó cũng có thể đứng độc lập thành bài báo riêng.
+
+📚 Tài nguyên học tập:
+- [Descriptive analysis in education: A guide for researchers](https://files.eric.ed.gov/fulltext/ED573325.pdf): Hướng dẫn chi tiết nhưng đủ cô đặc về cách thực hiện nghiên cứu mô tả. Cái hay của tài liệu này nó chính là ví dụ minh hoạ cụ thể đối với từng chỉ dẫn.
+- [What explains trends in labor supply among U.S. undergraduates?](https://www.nber.org/system/files/working_papers/w17744/w17744.pdf). Một phân tích rất chi tiết sử dụng phương pháp mô tả. Ví dụ trên cung cấp cho các bạn biết nếu viết nghiên cứu mô tả thì trông mặt mũi nó như thế nào. Tác giả phải dùng đến 46 trang để trả lời cho một câu hỏi nghiên cứu (như tiêu đề bài báo) - đây thực sự là một con số ấn tượng so với 260 từ (tối thiểu).
 ## 🧩 Các case studies về nghiên cứu định tính điển hình
 
 
