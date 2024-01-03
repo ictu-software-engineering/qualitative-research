@@ -43,7 +43,12 @@ Bên cạnh việc đóng vai trò là một đoạn/phần/chương trong một
 
 Đối với nghiên cứu tổng quan, có lẽ 2 ý cuối cùng là 2 ý quan trọng nhất vì nó giúp mình định hình được sẽ làm gì với cái chủ đề của mình.
 
+📚 Tài nguyên học tập:
 
+- [Write a Literature Review](https://guides.lib.uoguelph.ca/c.php?g=130964&p=5000948): Liệt kê 7 bước để làm nghiên cứu tổng quan trong đó có ví dụ con con về các trình bày kết quả nghiên cứu tổng quan trông nó như thế nào
+- [What is a Literature Review? | Guide, Template, & Examplesv](https://www.scribbr.co.uk/thesis-dissertation/literature-review/): Cái hay ở trong bài viết này chính là cung cấp các ví dụ thực tế (các bài báo) về nghiên cứu tổng quan
+- [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564). Bài viết chi tiết về review thuộc Q1. Theo tôi hãy đọc kỹ bài này như một quyển kinh thánh vì nó được đông đảo người đọc chấp nhận (với hơn 7k trích dẫn).
+  
 ### Nghiên cứu mô tả (descriptive)
 ## 🧩 Các case studies về nghiên cứu định tính điển hình
 
