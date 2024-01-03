@@ -1,6 +1,6 @@
 # 🗣️ Nghiên cứu định tính (Qualitative Research)
 
-Khoá học này dành cho những người bận rộn, không có đủ thời gian để đọc hết tất cả những vấn đề liên quan đến nghiên cứu. Với phương châm học tối thiểu, nhưng đủ để viết bài báo khoa học. Khóa học này được chia thành 02 phần:
+Khoá học này dành cho những người bận rộn, không có đủ thời gian để đọc hết tất cả những vấn đề liên quan đến nghiên cứu. Với phương châm học tối thiểu, nhưng đủ để viết bài báo khoa học. Nội dung này được chia thành 02 mục như sau:
 
 1. 🧩 **Cơ bản về nghiên cứu định tính** bao gồm các kiến thức về cấu trúc bài báo, phương pháp tiếp cận và phân tích kết quả.
 2. 🧑‍🔬 **Các case studies hay để học tập** tập trung vào phân tích các case studies sử dụng phương pháp định tính - học theo phương pháp đứng trên vai người khổng lồ. 
@@ -62,3 +62,39 @@ Giống như nghiên cứu tổng quan, nghiên cứu mô tả thường xuất 
 - [Computers & Education: Artificial Intelligence](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence): Tạp chí là một nhánh của Computers & Education (TOP 1), tạp chí này chứa hàng loạt các bài viết về nghiên cứu tổng quan (open access) có thể đọc và tham khảo.
 - [Digital competence in higher education research: A systematic literature review
 ](https://www.sciencedirect.com/science/article/pii/S0360131521000890): Bài viết tổng quan, định tính siêu ngắn đạt đẳng cấp Q1. Nên học thuộc lòng cách viết, dẫn dắt vấn đề
+
+Nội dung về nghiên cứu định tính sẽ được thảo luận trong 03 khoá học
+# 🗣️ Nghiên cứu định tính L1 (level 1)
+**Đã kết thúc!**
+
+- Buổi 1: Giới thiệu về mô hình PRISMA
+- Buổi 2: Giới thiệu về cấu trúc bài báo
+- Buổi 3: Cách viết phần phương pháp nghiên cứu
+- Buổi 4: Cách viết phần kết quả nghiên cứu
+- Buổi 5: Cách viết phần nghiên cứu liên quan
+- Buổi 6: Cách viết phần thảo luận
+- Buổi 7: Cách viết phần giới thiệu
+- Buổi 8: Cách viết tiêu đều, tóm tắt, từ khoá
+
+
+# 🗣️ Nghiên cứu định tính L2 (level 2) - Dự kiến khai giảng 18/1/2024
+
+- Buổi 1: Tóm tắt khối kiến thức ở **level 1**
+- Buổi 2: Giới thiệu về nghiên cứu nội dung và các biến tiềm năng
+- Buổi 3: Phân tích một số bài báo điển hình về nghiên cứu nôi dung
+- Buổi 4: Tìm định hướng nghiên cứu thông qua nghiên cứu nội dung
+- Buổi 5: Cách viết bài báo nghiên cứu nội dung có cấu trúc
+- Buổi 6: Các câu hỏi của phản biện liên quan đến nghiên cứu nội dung và cách trả lời
+- Buổi 7: Sử dụng các công cụ hỗ trợ mạnh (AI) để làm phân tích nội dung
+- Buổi 8: Hướng phát triển của nghiên cứu nội dung cho nội dung nâng cao
+
+# 🗣️ Nghiên cứu định tính L3 (level 3) - Dự kiến khai giảng T5/2024
+
+- Buổi 1: Tóm tắt khối kiến thức ở **level 1, 2**
+- Buổi 2: Hạn chế của nghiên cứu nội dung ở **level 1, 2** và phương hướng
+- Buổi 3: Phân tích động, có yếu tố thời gian và các công cụ trực quan
+- Buổi 4: Cách đọc các bài báo có yếu tố công thức/toán học
+- Buổi 5: Trích dẫn - bữa tiệc không có hồi kết
+- Buổi 6: Ứng dụng của trí tuệ nhân tạo trong....(tự điền)
+- Buổi 7: Tư duy ngược - sự khác biệt trong nghiên cứu
+- Buổi 8: Nghiên cứu định tính cho chuyên ngành hẹp
