@@ -59,6 +59,6 @@ Giống như nghiên cứu tổng quan, nghiên cứu mô tả thường xuất 
 
 - [Mini Review](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/28127): Dạng bài review ngắn, có cấu trúc được chấp nhận trên Scopus
 - [Integrated teaching in primary schools: A systematic review of current practices, barriers, and future developments](https://ijere.iaescore.com/index.php/IJERE/article/view/26087): Bài này do học viên của lớp tự làm bằng cách xem ví dụ mẫu từ bài Mini Review ở trên sau đó áp dụng vào lĩnh vực chuyên môn của mình, cũng được indexed trong [Scopus](https://www.scopus.com/record/display.uri?eid=2-s2.0-85175046142&origin=resultslist&sort=plf-f&cite=2-s2.0-85137644275&src=s&imp=t&sid=9889c5c1207de82605cd6b2e63ab819b&sot=cite&sdt=a&sl=0&relpos=0&citeCnt=0&searchTerm=)
-- 
-
-
+- [Computers & Education: Artificial Intelligence](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence): Tạp chí là một nhánh của Computers & Education (TOP 1), tạp chí này chứa hàng loạt các bài viết về nghiên cứu tổng quan (open access) có thể đọc và tham khảo.
+- [Digital competence in higher education research: A systematic literature review
+](https://www.sciencedirect.com/science/article/pii/S0360131521000890): Bài viết tổng quan, định tính siêu ngắn đạt đẳng cấp Q1. Nên học thuộc lòng cách viết, dẫn dắt vấn đề
