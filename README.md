@@ -87,6 +87,7 @@ Nội dung về nghiên cứu định tính sẽ được thảo luận trong 03
 - Buổi 6: Các câu hỏi của phản biện liên quan đến nghiên cứu nội dung và cách trả lời
 - Buổi 7: Sử dụng các công cụ hỗ trợ mạnh (AI) để làm phân tích nội dung
 - Buổi 8: Hướng phát triển của nghiên cứu nội dung cho nội dung nâng cao
+Lưu ý: Bắt đầu từ khoá học này, học viên có bài báo nộp, hoặc chấp nhận, hoặc bản thảo (manuscript) dạng đầy đủ với kiến thức/nội dung từ khoá học sẽ được giảm học phí (500k) cho khoá học tiếp theo. Trường hợp tốt nhất - là học viên có 6 bài báo sau 6 khoá học thì học phí sẽ là 0 (miễn phí)
 
 # 🗣️ Nghiên cứu định tính L3 (level 3) - Dự kiến khai giảng T5/2024
 
