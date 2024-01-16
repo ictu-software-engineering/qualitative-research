@@ -34,6 +34,15 @@
 32. Bibliometric and content analyses of research on technology use in real estate facilities management [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/F-10-2022-0128/full/html)
 33. The Meaning Extraction Method: An Approach to Evaluate Content Patterns From Large-Scale Language Data [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/F-10-2022-0128/full/html)
 34. Social innovation and higher education: evolution and future promise [Phân tích](https://www.nature.com/articles/s41599-023-01759-y)
+35. A Quantitative Study of Software Reviews Using Content Analysis Methods [Phân tích](https://ieeexplore.ieee.org/document/9957062)
+36. Machine Learning and Marketing: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9869838/)
+37. Application of Intelligent Recommendation for Agricultural Information: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9611248)
+38. Critical Success Factors for Big Data: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9127414/)
+39. 	Systematic Review of Discussion Forums in Massive Open Online Courses (MOOCs) [Phân tích](https://ieeexplore.ieee.org/document/8418792)
+40. Extending the framework for mobile health information systems Research: A content analysis [Phân tích](https://linkinghub.elsevier.com/retrieve/pii/S0306437917301631)
+41. 	Artificial intelligence applications in Latin American higher education: a systematic review [Phân tích](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00326-w)
+42. Web 2.0 applications in government web sites: Prevalence, use and correlations with perceived web site quality [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/14684521211229020/full/html)
+
 
 
 
