@@ -74,7 +74,7 @@ Nội dung về nghiên cứu định tính sẽ được thảo luận trong 03
 - Buổi 5: Cách viết phần nghiên cứu liên quan
 - Buổi 6: Cách viết phần thảo luận
 - Buổi 7: Cách viết phần giới thiệu
-- Buổi 8: Cách viết tiêu đều, tóm tắt, từ khoá
+- Buổi 8: Cách viết tiêu đề, tóm tắt, từ khoá
 
 
 # 🗣️ Nghiên cứu định tính L2 (level 2) - Dự kiến khai giảng 18/1/2024
