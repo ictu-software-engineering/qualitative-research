@@ -38,9 +38,9 @@
 36. Machine Learning and Marketing: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9869838/)
 37. Application of Intelligent Recommendation for Agricultural Information: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9611248)
 38. Critical Success Factors for Big Data: A Systematic Literature Review [Phân tích](https://ieeexplore.ieee.org/document/9127414/)
-39. 	Systematic Review of Discussion Forums in Massive Open Online Courses (MOOCs) [Phân tích](https://ieeexplore.ieee.org/document/8418792)
+39. Systematic Review of Discussion Forums in Massive Open Online Courses (MOOCs) [Phân tích](https://ieeexplore.ieee.org/document/8418792)
 40. Extending the framework for mobile health information systems Research: A content analysis [Phân tích](https://linkinghub.elsevier.com/retrieve/pii/S0306437917301631)
-41. 	Artificial intelligence applications in Latin American higher education: a systematic review [Phân tích](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00326-w)
+41. Artificial intelligence applications in Latin American higher education: a systematic review [Phân tích](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00326-w)
 42. Web 2.0 applications in government web sites: Prevalence, use and correlations with perceived web site quality [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/14684521211229020/full/html)
 
 
