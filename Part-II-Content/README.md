@@ -23,6 +23,25 @@
 21. AI technologies for education: Recent research & future directions [Phân tích](https://www.sciencedirect.com/science/article/pii/S2666920X21000199?via%3Dihub)
 22. A critical analysis of the effects of Twitter on student engagement and grades [Phân tích](https://www.cedtech.net/article/a-critical-analysis-of-the-effects-of-twitter-on-student-engagement-and-grades-13277)
 23. A Critical Review of Research on Social Networking Sites in Language Teaching and Learning [Phân tích](https://www.cedtech.net/article/a-critical-review-of-research-on-social-networking-sites-in-language-teaching-and-learning-6225)
+24. A comprehensive systematic review and content analysis of active video game intervention research [Phân tích](https://journals.sagepub.com/doi/10.1177/20552076231171232)
+25. Comments Analysis on Social Media: A Review [Phân tích](https://publications.eai.eu/index.php/sis/article/view/3843)
+26. Evaluation of Scientific and Technological Research in China’s Colleges: A Review of Policy Reforms, 2000–2020 [Phân tích](https://journals.sagepub.com/doi/10.1177/2096531120938383)
+27. Internet marketing: a content analysis of the research [Phân tích](https://link.springer.com/article/10.1007/s12525-012-0118-y)
+28. Digital transformation towards sustainability in higher education: state-of-the-art and future research insights [Phân tích](https://link.springer.com/article/10.1007/s10668-022-02874-7)
+29. Journalism research: A dominant field of communication research in Spain. A meta-research on Spanish peer-reviewed journals (2000-2014) [Phân tích](https://ojs.labcom-ifp.ubi.pt/index.php/ec/article/view/361/pdf)
+30. Trends of cultural studies in science education: A systematic review from 1973 to 2023 [Phân tích](https://www.ejmste.com/article/trends-of-cultural-studies-in-science-education-a-systematic-review-from-1973-to-2023-13837)
+31. Examining the implementations related to teaching science to students with disabilities [Phân tích](https://www.ejmste.com/article/examining-the-implementations-related-to-teaching-science-to-students-with-disabilities-13427)
+32. Bibliometric and content analyses of research on technology use in real estate facilities management [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/F-10-2022-0128/full/html)
+33. The Meaning Extraction Method: An Approach to Evaluate Content Patterns From Large-Scale Language Data [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/F-10-2022-0128/full/html)
+34. Social innovation and higher education: evolution and future promise [Phân tích](https://www.nature.com/articles/s41599-023-01759-y)
+
+
+
+
+
+
+
+
 
 
 
