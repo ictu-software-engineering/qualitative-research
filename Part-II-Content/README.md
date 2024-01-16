@@ -12,6 +12,26 @@
 10. Impact of Social Media on Adolescence: Mapping Emerging Needs to Build Resilient Skills [Phân tích](https://www.mdpi.com/2075-4698/13/11/238)
 11. Transforming Education: A Comprehensive Review of Generative Artificial Intelligence in Educational Settings through Bibliometric and Content Analysis [Phân tích](https://www.mdpi.com/2071-1050/15/17/12983)
 12. Competences of Physical Education Teachers in Education Supported by Digital Technology [Phân tích](https://www.ijcrsee.com/index.php/ijcrsee/article/view/2630)
+13. Language and communication in international students’ adaptation: a bibliometric and content analysis review [Phân tích](https://link.springer.com/article/10.1007/s10734-022-00888-8)
+14. Researching English language textbooks: A systematic review in the Chinese context (1964–2021) [Phân tích](https://sfleducation.springeropen.com/articles/10.1186/s40862-022-00156-3)
+15. A review of feature selection techniques in bioinformatics [Phân tích](https://academic.oup.com/bioinformatics/article/23/19/2507/185254)
+16. Social media data for conservation science: A methodological overview [Phân tích](https://www.sciencedirect.com/science/article/pii/S0006320718317609?via%3Dihub)
+17. A Review of Artificial Intelligence (AI) in Education from 2010 to 2020 [Phân tích](https://www.sciencedirect.com/science/article/pii/S0006320718317609?via%3Dihub)
+18. A survey of visual analytics techniques for machine learning [Phân tích](https://link.springer.com/article/10.1007/s41095-020-0191-7)
+19. Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities [Phân tích](https://www.sciencedirect.com/science/article/pii/S2666920X23000036?via%3Dihub)
+20. Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education [Phân tích](https://www.sciencedirect.com/science/article/pii/S2666920X2200073X?via%3Dihub)
+21. AI technologies for education: Recent research & future directions [Phân tích](https://www.sciencedirect.com/science/article/pii/S2666920X21000199?via%3Dihub)
+22. A critical analysis of the effects of Twitter on student engagement and grades [Phân tích](https://www.cedtech.net/article/a-critical-analysis-of-the-effects-of-twitter-on-student-engagement-and-grades-13277)
+23. A Critical Review of Research on Social Networking Sites in Language Teaching and Learning [Phân tích](https://www.cedtech.net/article/a-critical-review-of-research-on-social-networking-sites-in-language-teaching-and-learning-6225)
+
+
+
+
+
+
+
+
+ 
 
 
 
