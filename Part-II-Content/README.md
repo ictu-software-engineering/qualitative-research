@@ -43,9 +43,42 @@
 41. Artificial intelligence applications in Latin American higher education: a systematic review [Phân tích](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-022-00326-w)
 42. Web 2.0 applications in government web sites: Prevalence, use and correlations with perceived web site quality [Phân tích](https://www.emerald.com/insight/content/doi/10.1108/14684521211229020/full/html)
 
+## Từ điển thuật ngữ
+- research methods: các phương pháp nghiên cứu
+- theme: chủ đề
+- implications: hàm ý, ý nghĩa
+- assess: đánh giá
+- characteristics: đặc điểm
+- research approaches: các cách tiếp cận nghiên cứu
+- operationalised: thực hiện
+- applications: ứng dụng
+- techniques: kỹ thuật
+- software tools: công cụ phần mềm
+- algorithms: thuật toán
+- topics: chủ đề
+- issues: vấn đề
+- structure: cấ trúc
+- state of evolution: xu hướng
+- author: tác giả
+- country: quốc gia
+- university: đại học
+- maturity: trưởng thành
+## Câu hỏi nghiên cứu (mẫu) tập hợp từ các bài báo
+1. What **research methods** are commonly used in the field of Machine Learning?
+2. What other recurring **themes** are there in Machine Learning field with regard to research methods?
+3. What **implications** do these recurring themes in research methods have for the Machine Learning
+discipline?
+4. How adequate is sustainable tourism research to effectively **assess** tourism's contributions to climate change and options for mitigation?
+5. What are the **characteristics** of inclusive **research approaches** to belonging and how are they **operationalised**?
+6. What does inclusively produced research tell us about belonging in the lives of people with intellectual disabilities?
+7. What and how AI-based **applications** are being used by higher education institutions in Latin America?
+8. What are the common AI **techniques**, **software tools**, and AI **algorithms** used in Latin American higher education?
+9. What education **topics** and **issues** are being addressed by AI applications in Latin American higher education institutions?
+10. What is the structure and **state of evolution** in social innovation?
+11. Which or who are the most influential units (**author, country, university**) in social innovation?
+12. What is the level of **research maturity** of social innovation in higher education?
 
-
-
+Trong bộ câu hỏi mẫu trên, cái chúng ta thực sự quan tâm là những từ bôi đậm, đó là những từ chúng ta có thể tái sử dụng trong nghiên cứu của riêng mình.
 
 
 
