@@ -80,10 +80,21 @@ discipline?
 
 Trong bộ câu hỏi mẫu trên, cái chúng ta thực sự quan tâm là những từ bôi đậm, đó là những từ chúng ta có thể tái sử dụng trong nghiên cứu của riêng mình.
 
+## Khái quát hoá
+Chúng ta tập hợp các câu hỏi đó lại để làm gì? Khái quát hoá với mục đích tái sử dụng. Ví dụ câu hỏi
+- What **research methods** are commonly used in the field of Machine Learning?
 
+có thể khái quát hoá lại như sau:
+- What **research methods** are commonly used in the field of [insert field name]?
 
+## Cụ thể hoá
+Dựa vào mẫu câu khái quát hoá chúng ta có thể cụ thể hoá trong các lĩnh vực khác nhau. Ví dụ
 
-
+- What **research methods** are commonly used in the field of [social science]?
+- What **research methods** are commonly used in the field of [biology]?
+- What **research methods** are commonly used in the field of [journalism]?
+- What **research methods** are commonly used in the field of [psychology]?
+- What **research methods** are commonly used in the field of [teacher professional development assessment]?
 
 
 
