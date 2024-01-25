@@ -96,9 +96,17 @@ Dựa vào mẫu câu khái quát hoá chúng ta có thể cụ thể hoá trong
 - What **research methods** are commonly used in the field of [psychology]?
 - What **research methods** are commonly used in the field of [teacher professional development assessment]?
 
+## 7 câu cơ bản
+1. Bối cảnh (background): chủ đề a/c đang định nói đến là chủ đề gì? Bài báo này nói về chủ đề AI trong dạy học 
+2. Tại sao chủ đề ABC nó là quan trọng: Chủ đề MOOC nó là quan trọng bởi vì tính mở, sự đa dạng,…
+3. So với các chủ đề khác cái này nó hay ở chỗ nào? So với chủ đề khác MOOC thường do người học quyết định nhiều hơn  
+4. Có vấn đề gì với chủ đề XXX hay không? Nếu có thì nó là vấn đề gì? è Tỷ lệ duy trì học tập, bỏ học…chủ yếu được đánh giá trong các công trình nghiên cứu khoa học trước đây. không tiết lộ bức tranh thực sự về kết quả học tập của từng cá nhân từ MOOCs 
+5. Các nỗ lực của các nhà nghiên cứu đã tìm cách giải quyết vấn đề trên hay chưa? Đã có rất nhiều các nghiên cứu trước đây tìm cách giải quyết vấn đề ở trên, ví dụ tác giả A đưa ra phương án 1, tác giả B đưa ra phương án 2, tác giả C đưa phương án 3,….Tác giả X đưa ra phương án 10. Nhìn chung có 4 phương án là được được đa số tác giả sử dụng nhiều nhất (đó là: động lực, cảm nhận được sự hỗ trợ học tập, sự tham gia học tập và các chiến lược học tập) 
+6. Nếu có thì câu trả lời có thỏa đáng hay không? Các nỗ lực trước đây đều không nhìn nhận về một khía cạnh khác của vấn đề 
+7.Đề xuất ra hướng nghiên cứu mới 
 
-
-
+## Viết đoạn
+Ý chính của câu ==> giải thích ý của câu ==> đưa ví dụ minh họa ==> chốt câu 
 
 
 
